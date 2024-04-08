@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #CB2714;
+}
+
+.direccionesCenter{
+    margin-top: 20px;
+}
+
+.bannerMain{
+    height: 540px;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.titleUbicaciones{
+    color: #ff0000;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.containerInfoUbic{
+    background-color: #ffffff;
+}
+
+.listUbicaciones{
+    padding: 0;
+    list-style: none;
+    font-size: 2.5rem;
+}
+
+.listUbicaciones li:last-child{
+    margin-top: 10px;
+}
+
+.listUbicaciones li a{
+    color: #000000;
+    background-color: #ffd500;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding:0px 20px;
+    text-decoration: none;
+}
+
+.listUbicaciones li a:hover{
+    background-color: #ffcc00;
+}

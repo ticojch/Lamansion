@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbarHeader{
+    background-color: #CB2714;
+}
+
+.containerProm{
+    background-color: #CB2714;
+}
+
+.containerCarta{
+    background-color: #363636;
+    color: white;
+}
+
+.promocionesTitle{
+    color: #ffd500;
+    font-family: "Teko", sans-serif;
+    font-size: 4rem;
+}
+
+.containerReserva{
+    background-color: #CB2714;
+}
+
+.deliveryButton{
+    font-size: 3em;
+    text-decoration: none;
+}
+
+.imgDelivery{
+    width: 300px;
+}
